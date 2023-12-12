@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hi ! 👋
 
 I'm Antoine Ritter, a future IT engineer with a passion for knowledge and a relentless drive for self-improvement. Currently navigating the exciting realm of academia at CESI engineering school in Nancy, France, I'm on a journey to earn my master's degree in IT engineering by 2026, and my sights are already set on a future doctoral thesis.
 
