@@ -4,7 +4,7 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 
 ## About Me
 
-- 📚 Studying at [Your IT Engineering School]
+- 📚 Studying at CESI Nancy
 - 🚀 Learning and exploring the world of IT
 - 🔭 Aspiring researcher with a keen interest in physics
 - 🧗 Love climbing to new heights, both in mountains and in code
