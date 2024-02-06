@@ -12,7 +12,7 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 ## Projects
 
 ### Portfolio Page
-- 🌐 [Portfolio Page](https://github.com/RitterAntoine/ritterantoine.github.io.git)
+- 🌐 [Portfolio Page](https://ritterantoine.github.io/)
 - A showcase of my work and projects.
 
 ### Personal Wiki
