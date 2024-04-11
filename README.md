@@ -16,7 +16,7 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 - A showcase of my work and projects.
 
 ### Trajectory Extraction project
-- 🌐 [Portfolio Page]([https://ritterantoine.github.io/](https://github.com/RitterAntoine/fdm_aa_cpp))
+- 🌐 [Trajectory Extraction and Cycles creation](https://github.com/RitterAntoine/fdm_aa_cpp)
 - Open source code of a project I did during an intership at Inria.
 
 ### Personal Wiki
