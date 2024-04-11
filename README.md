@@ -1,19 +1,23 @@
 # Hello, I'm Ritter Antoine! 👋
 
-I'm a student pursuing IT Engineering, passionate about technology and aspiring to become a researcher. Currently diving into the world of GitHub and version control.
+I'm a student pursuing IT Engineering, passionate about technology and aspiring to become a researcher.
 
 ## About Me
 
 - 📚 Studying at CESI Nancy
 - 🚀 Learning and exploring the world of IT
 - 🔭 Aspiring researcher with a keen interest in physics
-- 🧗 Love climbing to new heights, both in mountains and in code
+- 🧗 Love climbing
 
 ## Projects
 
 ### Portfolio Page
 - 🌐 [Portfolio Page](https://ritterantoine.github.io/)
 - A showcase of my work and projects.
+
+### Trajectory Extraction project
+- 🌐 [Portfolio Page]([https://ritterantoine.github.io/](https://github.com/RitterAntoine/fdm_aa_cpp))
+- Open source code of a project I did during an intership at Inria.
 
 ### Personal Wiki
 - 📖 [Personal Wiki](https://github.com/RitterAntoine/Brain.git)
@@ -22,9 +26,4 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 ## Connect with Me
 
 - LinkedIn: [Ritter Antoine](https://www.linkedin.com/in/antoine-ritter-cesi/)
-
-## Let's Connect
-
-Feel free to explore my repositories and connect with me on LinkedIn. I'm always open to collaboration and learning from others.
-
-Happy coding! 🚀
+- Feel free to explore my repositories and connect with me on LinkedIn.
