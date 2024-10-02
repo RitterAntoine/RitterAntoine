@@ -19,14 +19,6 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 - 🌐 [Trajectory Extraction and Cycles creation](https://github.com/RitterAntoine/fdm_aa_cpp)
 - Open source code of a project I did during an intership at Inria.
 
-### School Projects
-- 📚 [School Projects](https://github.com/Ritter-Antoine-Cesi-Projects)
-- An organization of all the projects I did during my studies at CESI.
-
-### Personal Wiki
-- 📖 [Personal Wiki](https://github.com/RitterAntoine/Brain.git)
-- Documenting my learning journey and knowledge.
-
 ## Connect with Me
 
 - LinkedIn: [Ritter Antoine](https://www.linkedin.com/in/antoine-ritter-cesi/)
