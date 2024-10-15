@@ -12,10 +12,10 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 
 ## Projects
 
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://ritterantoine.github.io&mode=light&style=horizontal)](https://ritterantoine.github.io/)
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/fdm_aa_cpp&mode=light&style=horizontal)](https://github.com/RitterAntoine/fdm_aa_cpp)
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/SolarSystemSimulation&mode=light&style=horizontal)](https://github.com/RitterAntoine/SolarSystemSimulation)
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/Handwritten_Digit_Recognition&mode=light&style=horizontal)](https://github.com/RitterAntoine/Handwritten_Digit_Recognition)
+[![Portfolio](https://svg.bookmark.style/api?url=https://ritterantoine.github.io&mode=light&style=horizontal)](https://ritterantoine.github.io/)
+[![FDM AA CPP](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/fdm_aa_cpp&mode=light&style=horizontal)](https://github.com/RitterAntoine/fdm_aa_cpp)
+[![Solar System Simulation](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/SolarSystemSimulation&mode=light&style=horizontal)](https://github.com/RitterAntoine/SolarSystemSimulation)
+[![Handwritten Digit Recognition](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/Handwritten_Digit_Recognition&mode=light&style=horizontal)](https://github.com/RitterAntoine/Handwritten_Digit_Recognition)
 
 ## Connect with Me
 
