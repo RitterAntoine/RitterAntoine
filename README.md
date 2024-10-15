@@ -24,11 +24,6 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 - 🌐 [Handwritten Digit Recognition](https://github.com/RitterAntoine/Handwritten_Digit_Recognition)
 - A machine learning project where I implemented a digit recognition model using the MNIST dataset. This project demonstrates my skills in Python, data preprocessing, neural networks, and deep learning frameworks like TensorFlow/Keras.
 
-## Skills
-- 💻 Programming Languages: Python, C++, JavaScript
-- 🔧 Tools & Technologies: TensorFlow, Keras, NumPy, Pandas, Git, Linux
-- 📊 Areas of Expertise: Machine Learning, Deep Learning, Data Analysis, Algorithms
-
 ## Connect with Me
 
 - 💼 LinkedIn: [Ritter Antoine](https://www.linkedin.com/in/antoine-ritter-cesi/)
