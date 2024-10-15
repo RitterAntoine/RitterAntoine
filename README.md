@@ -20,6 +20,10 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 - 🌐 [Trajectory Extraction and Cycles creation](https://github.com/RitterAntoine/fdm_aa_cpp)
 - This is an open-source project I developed during an internship at Inria. The project focuses on trajectory extraction and cycle detection, utilizing my skills in C++ and algorithm design.
 
+### Solar System Simulation
+- 🌐 [Solar System Simulation](https://github.com/RitterAntoine/SolarSystemSimulation)
+- An autonomous simulation of the solar system, showcasing the orbits of planets like Earth and Mars in a dynamic visualization.
+
 ### Handwritten Digit Recognition Project
 - 🌐 [Handwritten Digit Recognition](https://github.com/RitterAntoine/Handwritten_Digit_Recognition)
 - A machine learning project where I implemented a digit recognition model using the MNIST dataset. This project demonstrates my skills in Python, data preprocessing, neural networks, and deep learning frameworks like TensorFlow/Keras.
