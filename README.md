@@ -19,8 +19,7 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 
 ## Connect with Me
 
-- 💼 LinkedIn: [Ritter Antoine](https://www.linkedin.com/in/antoine-ritter-cesi/)
-- 💻 GitHub: Explore my repositories and feel free to connect with me for collaborations or discussions.
+- 💻 GitHub: Explore my repositories and feel free to connect with me for collaborations or discussions via email at [antoine.ritter@viacesi.fr](mailto:antoine.ritter@viacesi.fr).
 
 ---
 
