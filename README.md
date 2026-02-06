@@ -2,14 +2,6 @@
 
 I'm a student pursuing IT Engineering, passionate about technology and aspiring to become a researcher. I love to explore the intersection between technology and science, especially in fields like AI, machine learning, and physics.
 
-## About Me
-
-- 📚 Currently studying IT Engineering at CESI Nancy
-- 🚀 Constantly learning and exploring the vast world of IT
-- 🔭 Aspiring researcher with a strong interest in physics and computational models
-- 🤖 Enthusiastic about machine learning and artificial intelligence
-- 🧗 Passionate about climbing as a way to challenge myself both physically and mentally
-
 ## Projects
 
 [![web_terminal](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/ritterantoine.github.io&mode=light&style=horizontal)](https://web_terminal.antoineritter.fr/)
@@ -18,8 +10,4 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 
 ## Connect with Me
 
-- 💻 GitHub: Explore my repositories and feel free to connect with me for collaborations or discussions via email at [contact@antoineritter.fr](mailto:contact@antoineritter.fr).
-
----
-
-Looking forward to collaborating and learning together! Feel free to explore my projects or get in touch. 😊
+- GitHub: Explore my repositories and feel free to connect with me for collaborations or discussions via email at [contact@antoineritter.fr](mailto:contact@antoineritter.fr).
