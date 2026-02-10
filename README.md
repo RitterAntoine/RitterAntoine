@@ -5,7 +5,6 @@ I'm a student pursuing IT Engineering, passionate about technology and aspiring 
 ## Projects
 
 [![web_terminal](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/ritterantoine.github.io&mode=light&style=horizontal)](https://web_terminal.antoineritter.fr/)
-[![FDM AA CPP](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/fdm_aa_cpp&mode=light&style=horizontal)](https://github.com/RitterAntoine/fdm_aa_cpp)
 [![Handwritten Digit Recognition](https://svg.bookmark.style/api?url=https://github.com/RitterAntoine/Handwritten_Digit_Recognition&mode=light&style=horizontal)](https://github.com/RitterAntoine/Handwritten_Digit_Recognition)
 
 ## Connect with Me
